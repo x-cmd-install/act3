@@ -12,6 +12,17 @@ Glance at the last 3 runs of your GitHub Actions workflows
 x install act3
 ```
 
+## 代码规模
+
+合计: **1,645** 行代码（覆盖前 5 种语言、共 **33** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 1,497 | 27 | 265 | 24 |
+| Html | 90 | 0 | 0 | 1 |
+| Yaml | 58 | 21 | 7 | 6 |
+| Markdown | 0 | 161 | 77 | 2 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/dhth/act3>
@@ -23,19 +34,6 @@ x install act3
 - **最新版本**: `v2.0.0` (2025-06-16)
 - **最近提交**: 2026-06-07
 - **Release 含资产**: 8 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [act3_2.0.0_checksums.txt](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_checksums.txt) | 480 B | `other` |
-| [act3_2.0.0_checksums.txt.pem](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_checksums.txt.pem) | 3.0 KiB | `other` |
-| [act3_2.0.0_checksums.txt.sig](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_checksums.txt.sig) | 96 B | `other` |
-| [act3_2.0.0_darwin_amd64.tar.gz](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_darwin_amd64.tar.gz) | 5.2 MiB | `native/darwin/x64` |
-| [act3_2.0.0_darwin_arm64.tar.gz](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_darwin_arm64.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
-| [act3_2.0.0_linux_386.tar.gz](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_linux_386.tar.gz) | 4.9 MiB | `native/unknown` |
-| [act3_2.0.0_linux_amd64.tar.gz](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_linux_amd64.tar.gz) | 5.2 MiB | `native/linux/x64` |
-| [act3_2.0.0_linux_arm64.tar.gz](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_linux_arm64.tar.gz) | 4.7 MiB | `native/linux/arm64` |
 
 ## 流行度
 
@@ -50,19 +48,24 @@ x install act3
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 10 | 0 | 0 | 0 | 13 |
 | 360d | 2025-09-15 | 0 | 32 | 0 | 0 | 1 | 37 |
+| last720d | 2024-09-20 | 3 | 60 | 1 | 0 | 3 | 83 |
 
-## 代码规模
+## Release 资产
 
-合计: **1,645** 行代码（覆盖前 5 种语言、共 **33** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 1,497 | 27 | 265 | 24 |
-| Html | 90 | 0 | 0 | 1 |
-| Yaml | 58 | 21 | 7 | 6 |
-| Markdown | 0 | 161 | 77 | 2 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [act3_2.0.0_checksums.txt](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_checksums.txt) | 480 B | `other` |
+| [act3_2.0.0_checksums.txt.pem](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_checksums.txt.pem) | 3.0 KiB | `other` |
+| [act3_2.0.0_checksums.txt.sig](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_checksums.txt.sig) | 96 B | `other` |
+| [act3_2.0.0_darwin_amd64.tar.gz](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_darwin_amd64.tar.gz) | 5.2 MiB | `native/darwin/x64` |
+| [act3_2.0.0_darwin_arm64.tar.gz](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_darwin_arm64.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [act3_2.0.0_linux_386.tar.gz](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_linux_386.tar.gz) | 4.9 MiB | `native/unknown` |
+| [act3_2.0.0_linux_amd64.tar.gz](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_linux_amd64.tar.gz) | 5.2 MiB | `native/linux/x64` |
+| [act3_2.0.0_linux_arm64.tar.gz](https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_linux_arm64.tar.gz) | 4.7 MiB | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -73,4 +76,4 @@ act3 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:07:54Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:13:30Z._
