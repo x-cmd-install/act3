@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 480,
       "digest": "sha256:f9683f071ba9bd94c707384fddbb73c4e024c5219afd35dac28d7944d58220f2",
-      "download_count": 84,
+      "download_count": 85,
       "created_at": "2025-06-16T14:15:53Z",
       "updated_at": "2025-06-16T14:15:53Z",
       "browser_download_url": "https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3068,
       "digest": "sha256:039bc477ad56e35ff89a6bd3838bc72508c47e85568bd2aa5f35405ba621604d",
-      "download_count": 84,
+      "download_count": 85,
       "created_at": "2025-06-16T14:15:53Z",
       "updated_at": "2025-06-16T14:15:53Z",
       "browser_download_url": "https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_checksums.txt.pem"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:7334bd889197c7efa5d6ea6b63868a141c696d4693b40831b3ee95fd426d04de",
-      "download_count": 83,
+      "download_count": 84,
       "created_at": "2025-06-16T14:15:53Z",
       "updated_at": "2025-06-16T14:15:53Z",
       "browser_download_url": "https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_checksums.txt.sig"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5497320,
       "digest": "sha256:af47924c00c5f1ca8f22b8e21cd8f5b71dbdee334cc1552a498a0593f1596c43",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2025-06-16T14:15:52Z",
       "updated_at": "2025-06-16T14:15:53Z",
       "browser_download_url": "https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_darwin_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5156168,
       "digest": "sha256:cbbb7bbcac3933372089b5b1c9d8547a39fb7049f31c137e7b5ff838498a6c05",
-      "download_count": 189,
+      "download_count": 190,
       "created_at": "2025-06-16T14:15:52Z",
       "updated_at": "2025-06-16T14:15:53Z",
       "browser_download_url": "https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5172477,
       "digest": "sha256:a6095d9f1046f7650d198e5359f4e38690c446d7d6e0dd304d65b1b8e34f3f0b",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2025-06-16T14:15:52Z",
       "updated_at": "2025-06-16T14:15:53Z",
       "browser_download_url": "https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_linux_386.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5410973,
       "digest": "sha256:d18e9590cb08390442b5e97bfeb148cee6686f829e788fc8f9395148ce192642",
-      "download_count": 1320,
+      "download_count": 1322,
       "created_at": "2025-06-16T14:15:52Z",
       "updated_at": "2025-06-16T14:15:53Z",
       "browser_download_url": "https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4970772,
       "digest": "sha256:c2c3bab9097a91a29daf376db0d65498db2f47cf60d270eaa06a6da495c15d52",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2025-06-16T14:15:53Z",
       "updated_at": "2025-06-16T14:15:53Z",
       "browser_download_url": "https://github.com/dhth/act3/releases/download/v2.0.0/act3_2.0.0_linux_arm64.tar.gz"
