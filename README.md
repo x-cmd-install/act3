@@ -47,12 +47,12 @@ Total: **1,646** lines of code across **33** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-18 | 0 | 2 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-19 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last180d | 2026-05-21 | 0 | 6 | 0 | 0 | 0 | 9 |
-| 360d | 2025-11-22 | 0 | 27 | 0 | 0 | 0 | 29 |
-| last720d | 2024-11-27 | 3 | 62 | 1 | 0 | 3 | 85 |
+| 30d | 2026-10-19 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-19 | 0 | 2 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-20 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last180d | 2026-05-22 | 0 | 6 | 0 | 0 | 0 | 9 |
+| 360d | 2025-11-23 | 0 | 26 | 0 | 0 | 0 | 29 |
+| last720d | 2024-11-28 | 3 | 62 | 1 | 0 | 3 | 85 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for act3 lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T06:29:13Z._
+_Snapshot: `data/card/261118.yml` · 2026-11-18T05:53:40Z._
